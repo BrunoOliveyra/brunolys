@@ -1,4 +1,4 @@
-# Olá! Eu sou Bruno Emanuel
+# Olá! Eu sou Bruno Oliveira
 📚I'm currently studying
 💻📖currently studying Java
 
